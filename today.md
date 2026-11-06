@@ -18,46 +18,46 @@
 - **플랫폼**: Velopers | **경력**: 시니어 | **마감**: 상시채용
 - 🔗 [채용 페이지 바로가기](https://velopers.kr/jobs/31107)
 
-### 5. [쿠팡] [쿠팡풀필먼트서비스] 개인정보보호 담당자 (7년이상)
-- **플랫폼**: 쿠팡 | **경력**: 경력무관 | **마감**: 상시채용
-- 🔗 [채용 페이지 바로가기](https://www.coupang.jobs/kr/jobs/8354895/)
+### 5. [서비스탑(주)] 서비스탑 AI Tech팀 IT 인프라 및 정보보안 전문가 채용
+- **플랫폼**: 사람인 | **경력**: 경력2년↑ | **마감**: 2026-11-20
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55489854)
 
-### 6. [쿠팡] Vulnerability Management Lead / Senior Staff Security Engineer
-- **플랫폼**: 쿠팡 | **경력**: 경력무관 | **마감**: 상시채용
-- 🔗 [채용 페이지 바로가기](https://www.coupang.jobs/kr/jobs/8352092/)
+### 6. [(주)케이비데이타시스템] 정보보호컨설팅 (기술 진단)
+- **플랫폼**: 사람인 | **경력**: 경력 3~5년 | **마감**: 2026-11-15
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55372006)
 
-### 7. [쿠팡] Staff Security Engineer(AI-Driven Vulnerability Discovery & Remediation)
-- **플랫폼**: 쿠팡 | **경력**: 경력무관 | **마감**: 상시채용
-- 🔗 [채용 페이지 바로가기](https://www.coupang.jobs/kr/jobs/8352094/)
+### 7. [(주)인라이플] [주4.5일근무] Security Engineer - 모의해킹
+- **플랫폼**: 사람인 | **경력**: 경력 5~15년 | **마감**: 2026-12-05
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55496811)
 
-### 8. [유엔아이티] 네트워크 및 보안 엔지니어 채용
-- **플랫폼**: 직행(zighang) | **경력**: 경력무관 | **마감**: 2026-12-31
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/37967356-2fb3-4458-80ca-89a2e8a60a1f)
+### 8. [(주)연합인포맥스] 정보보안 담당 경력사원 채용
+- **플랫폼**: 사람인 | **경력**: 경력 3~7년 | **마감**: 2026-11-22
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55503421)
 
-### 9. [주식회사 그린에스씨에이] 산업제어시스템 보안 엔지니어 모집공고
-- **플랫폼**: 직행(zighang) | **경력**: 3년 이상 | **마감**: 2026-11-15
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/0e290310-5990-44d5-b0c2-2bbc8a1a810e)
+### 9. [(주)메타넷엑스] [MetanetX] 정보보안 컨설턴트 (경력)
+- **플랫폼**: 사람인 | **경력**: 경력5년↑ | **마감**: 2026-12-04
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55482836)
 
-### 10. [현대오토에버] DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영
-- **플랫폼**: 직행(zighang) | **경력**: 2년 이상 | **마감**: 2026-11-26
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/e4ccc405-006e-4b6c-ab2f-11b53bb87daf)
+### 10. [(주)넷앤드] [넷앤드] 정보보안 담당자 (경력 5년이상)
+- **플랫폼**: 사람인 | **경력**: 경력5년↑ | **마감**: 2026-11-30
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55498895)
 
-### 11. [아우토크립트] Senior Offensive Security Engineer [모의해킹_6년 이상]
-- **플랫폼**: 직행(zighang) | **경력**: 6년 이상 | **마감**: 2026-11-30
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/cd0b5505-1025-4a7f-9086-2a739ce0c665)
+### 11. [메리츠화재해상보험(주)] 경력직 채용공고(정보보안시스템 운영)
+- **플랫폼**: 사람인 | **경력**: 경력2년↑ | **마감**: 2026-11-11
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55500394)
 
-### 12. [현대오토에버] 모의 해킹 및 취약점 진단
-- **플랫폼**: 직행(zighang) | **경력**: 2년 이상 | **마감**: 2026-11-26
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/680ec9e6-ae06-4e6e-9b97-8d7ca50ea6d6)
+### 12. [(주)비즈테크온] [LG CNS 자회사] 비즈테크온 사내 정보보안. 개인정보보호 담당
+- **플랫폼**: 사람인 | **경력**: 경력 3~5년 | **마감**: 2026-12-05
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55496069)
 
-### 13. [홀빅] PG 정보보안 담당자 채용
-- **플랫폼**: 직행(zighang) | **경력**: 3년 이상 | **마감**: 2026-12-03
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/879f2e61-1d1b-4c9f-bf4e-26737235215e)
+### 13. [(주)이든정보기술] 네트워크보안 및 정보보안 경력 및 신입 엔지니어 채용
+- **플랫폼**: 사람인 | **경력**: 신입·경력 | **마감**: 2026-11-30
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55176361)
 
-### 14. [써치스퀘어] 정보보안 컨설팅-초일류 대기업
-- **플랫폼**: 직행(zighang) | **경력**: 5년 이상 | **마감**: 2026-11-22
-- 🔗 [채용 페이지 바로가기](https://zighang.com/recruitment/9d6361a3-e077-4e8e-a469-b09741ada455)
+### 14. [(주)숲] 개인정보보호 담당
+- **플랫폼**: 사람인 | **경력**: 경력5년↑ | **마감**: 2026-11-15
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55489913)
 
-### 15. [주식회사 비마이프렌즈] 개인정보보호담당자(Data Privacy Manager)
-- **플랫폼**: 시큐리티팜 | **경력**: 경력무관 | **마감**: 상시채용
-- 🔗 [채용 페이지 바로가기](https://www.securityfarm.co.kr/job/detail/6aec0ce95eb5c4ac14f1e073)
+### 15. [메리츠화재해상보험(주)] 경력직 채용공고(개인정보보호담당자)
+- **플랫폼**: 사람인 | **경력**: 경력3년↑ | **마감**: 2026-11-11
+- 🔗 [채용 페이지 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55500393)
