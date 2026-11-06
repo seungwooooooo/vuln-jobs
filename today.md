@@ -1,8 +1,6 @@
-# 📅 오늘자 핵심 취약점 진단 공고 (2026-11-06)
+# 📅 핵심 취약점 진단 공고
 
-> 🌐 **실시간 웹 대시보드**: [https://seungwooooooo.github.io/vuln-jobs/](https://seungwooooooo.github.io/vuln-jobs/)
-
-전체 신규 37건 중 취약점 진단·모의해킹 핵심 직무 선별 목록입니다.
+[웹 대시보드](https://seungwooooooo.github.io/vuln-jobs/)
 
 ### 1. [토스증권(비바리퍼블리카)] Staff Security Engineer (AI-Driven Vulnerability Discovery & Remediation)
 - **플랫폼**: Velopers | **경력**: 시니어/리드 | **마감**: 상시채용
