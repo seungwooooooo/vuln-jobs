@@ -2,23 +2,11 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **2,274건** | **57건** | **183건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **2,270건** | **53건** | **183건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
 ## 🎯 핵심 취약점 진단 추천 공고
-
-### [토스증권(비바리퍼블리카)] Staff Security Engineer (AI-Driven Vulnerability Discovery & Remediation)
-- **플랫폼**: `Velopers` | **경력**: 시니어/리드 | **지역**: 서울 강남구 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://velopers.kr/jobs/31207)**
-
-### [글로벌 테크] Vulnerability Management Lead / Senior Staff Security Engineer
-- **플랫폼**: `Velopers` | **경력**: 리드급 | **지역**: 서울 판교/강남 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://velopers.kr/jobs/31213)**
-
-### [플랫폼 테크] (플랫폼) 기술보안 담당자 (웹 취약점 진단 / 보안성 검토) (2년 이상)
-- **플랫폼**: `Velopers` | **경력**: 경력 2년 이상 | **지역**: 서울 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://velopers.kr/jobs/27561)**
 
 ### [(주)인라이플] [주4.5일근무] Security Engineer - 모의해킹
 - **플랫폼**: `사람인` | **경력**: 경력 5~15년 | **지역**: 서울 구로구 | **마감**: `2026-12-05`
@@ -40,16 +28,20 @@
 - **플랫폼**: `직행(zighang)` | **경력**: 4~8년 | **지역**: 서울 | **마감**: `2026-11-19`
 - 👉 **[공고 바로가기](https://zighang.com/recruitment/9267180a-c789-4898-b436-52e4ec432ffc)**
 
+### [파인더갭] 보안 엔지니어(취약점 분석/평가) 5년 이상
+- **플랫폼**: `직행(zighang)` | **경력**: 5~11년 | **지역**: 서울 | **마감**: `2026-12-31`
+- 👉 **[공고 바로가기](https://zighang.com/recruitment/8465359f-aadc-4dbb-a2bc-c196be261c83)**
+
+### [탑커리어인사이트] 정보보호 취약점분석, 대응 / MAX1억
+- **플랫폼**: `직행(zighang)` | **경력**: 7년 이상 | **지역**: 서울 | **마감**: `2026-11-12`
+- 👉 **[공고 바로가기](https://zighang.com/recruitment/24274741-dad7-4f5a-b0e0-558a3ec7874b)**
+
 ---
 
-## 🔥 오늘 신규 등록 공고 (57건)
+## 🔥 오늘 신규 등록 공고 (53건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
-| **토스증권(비바리퍼블리카)** | Staff Security Engineer (AI-Driven Vul... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/31207) |
-| **글로벌 테크** | Vulnerability Management Lead / Senior... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/31213) |
-| **플랫폼 테크** | (플랫폼) 기술보안 담당자 (웹 취약점 진단 / 보안성 검토) (2년... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/27561) |
-| **카카오모빌리티** | [공동체] 카카오모빌리티 보안운영 시니어 엔지니어 | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/31107) |
 | **서비스탑(주)** | 서비스탑 AI Tech팀 IT 인프라 및 정보보안 전문가 채용 | `사람인` | 2026-11-20 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55489854) |
 | **(주)케이비데이타시스템** | 정보보호컨설팅 (기술 진단) | `사람인` | 2026-11-15 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55372006) |
 | **(주)인라이플** | [주4.5일근무] Security Engineer - 모의해킹 | `사람인` | 2026-12-05 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55496811) |
@@ -71,6 +63,10 @@
 | **㈜연합인포맥스** | 연합인포맥스 정보보안 담당 경력사원 채용 | `잡코리아` | 2026-11-22 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50319800) |
 | **㈜텔레칩스** | [판교 사옥] Senior Cyber Security Manager | `잡코리아` | 2027-01-05 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50316267) |
 | **대기업** | [대기업 계열 IT기업] 정보보안 엔지니어 (보안 인프라·솔루션 운영) | `잡코리아` | 2026-11-16 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50314608) |
+| **중견기업(300명이상)** | O[중견/금융/중구]Kax 6. 취약점 분석 / 대응 | `잡코리아` | 2026-11-19 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50316881) |
+| **중견기업(300명이상)** | O[중견/금융/중구]Kax 5. 보안 엔지니어 | `잡코리아` | 2026-11-19 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50316799) |
+| **대기업** | [대형 금융사] 정보보안 담당자 (취약점 분석, 보안성 검토) | `잡코리아` | 2026-11-16 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50314619) |
+| **대기업** | 48. 정보보호 및 개인정보보호 담당자 [국내 금융사] | `잡코리아` | 2027-02-04 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50316105) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
