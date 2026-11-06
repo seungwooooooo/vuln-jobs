@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **2,237건** | **37건** | **182건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **2,237건** | **24건** | **182건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -28,21 +28,21 @@
 - **플랫폼**: `쿠팡` | **경력**: 경력무관 | **지역**: 본문 참조 | **마감**: `상시채용`
 - 👉 **[공고 바로가기](https://www.coupang.jobs/kr/jobs/8352094/)**
 
-### [카카오엔터프라이즈] [정보보안실] 보안 취약점 진단 담당자 영입
-- **플랫폼**: `직행(zighang)` | **경력**: 3년 이상 | **지역**: 경기 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://zighang.com/recruitment/a9cb9158-27c3-4c78-a0b7-8dbc4c37e1ef)**
-
-### [인라이플] Security Engineer - 모의해킹
-- **플랫폼**: `직행(zighang)` | **경력**: 5~10년 | **지역**: 서울 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://zighang.com/recruitment/a7823eee-9e16-4467-8ee5-c9b6b7c4ac0b)**
-
 ### [현대오토에버] DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영
 - **플랫폼**: `직행(zighang)` | **경력**: 2년 이상 | **지역**: 서울 | **마감**: `2026-11-26`
 - 👉 **[공고 바로가기](https://zighang.com/recruitment/e4ccc405-006e-4b6c-ab2f-11b53bb87daf)**
 
+### [아우토크립트] Senior Offensive Security Engineer [모의해킹_6년 이상]
+- **플랫폼**: `직행(zighang)` | **경력**: 6년 이상 | **지역**: 서울 | **마감**: `2026-11-30`
+- 👉 **[공고 바로가기](https://zighang.com/recruitment/cd0b5505-1025-4a7f-9086-2a739ce0c665)**
+
+### [현대오토에버] 모의 해킹 및 취약점 진단
+- **플랫폼**: `직행(zighang)` | **경력**: 2년 이상 | **지역**: 서울 | **마감**: `2026-11-26`
+- 👉 **[공고 바로가기](https://zighang.com/recruitment/680ec9e6-ae06-4e6e-9b97-8d7ca50ea6d6)**
+
 ---
 
-## 🔥 오늘 신규 등록 공고 (37건)
+## 🔥 오늘 신규 등록 공고 (24건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
@@ -53,24 +53,23 @@
 | **쿠팡** | [쿠팡풀필먼트서비스] 개인정보보호 담당자 (7년이상) | `쿠팡` | 상시채용 | [상세보기](https://www.coupang.jobs/kr/jobs/8354895/) |
 | **쿠팡** | Vulnerability Management Lead / Senior... | `쿠팡` | 상시채용 | [상세보기](https://www.coupang.jobs/kr/jobs/8352092/) |
 | **쿠팡** | Staff Security Engineer(AI-Driven Vuln... | `쿠팡` | 상시채용 | [상세보기](https://www.coupang.jobs/kr/jobs/8352094/) |
-| **CJ ENM** | [CJ ENM] 개인정보보호담당자 | `CJ 채용관` | 상시채용 | [상세보기](https://recruit.cj.net/recruit/ko/recruit/recruit/detail.fo?zz_jo_num=J20261103041089) |
 | **유엔아이티** | 네트워크 및 보안 엔지니어 채용 | `직행(zighang)` | 2026-12-31 | [상세보기](https://zighang.com/recruitment/37967356-2fb3-4458-80ca-89a2e8a60a1f) |
-| **카카오엔터프라이즈** | [정보보안실] 보안 취약점 진단 담당자 영입 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/a9cb9158-27c3-4c78-a0b7-8dbc4c37e1ef) |
 | **주식회사 그린에스씨에이** | 산업제어시스템 보안 엔지니어 모집공고 | `직행(zighang)` | 2026-11-15 | [상세보기](https://zighang.com/recruitment/0e290310-5990-44d5-b0c2-2bbc8a1a810e) |
-| **인라이플** | Security Engineer - 모의해킹 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/a7823eee-9e16-4467-8ee5-c9b6b7c4ac0b) |
 | **현대오토에버** | DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영 | `직행(zighang)` | 2026-11-26 | [상세보기](https://zighang.com/recruitment/e4ccc405-006e-4b6c-ab2f-11b53bb87daf) |
 | **아우토크립트** | Senior Offensive Security Engineer [모의... | `직행(zighang)` | 2026-11-30 | [상세보기](https://zighang.com/recruitment/cd0b5505-1025-4a7f-9086-2a739ce0c665) |
 | **현대오토에버** | 모의 해킹 및 취약점 진단 | `직행(zighang)` | 2026-11-26 | [상세보기](https://zighang.com/recruitment/680ec9e6-ae06-4e6e-9b97-8d7ca50ea6d6) |
 | **홀빅** | PG 정보보안 담당자 채용 | `직행(zighang)` | 2026-12-03 | [상세보기](https://zighang.com/recruitment/879f2e61-1d1b-4c9f-bf4e-26737235215e) |
 | **써치스퀘어** | 정보보안 컨설팅-초일류 대기업 | `직행(zighang)` | 2026-11-22 | [상세보기](https://zighang.com/recruitment/9d6361a3-e077-4e8e-a469-b09741ada455) |
-| **LGAI연구원** | 개인정보보호 담당자 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/c9a32ac7-2df6-4dde-8108-dbbcca944c50) |
-| **KB데이타시스템** | 정보보호컨설팅 (관리 진단) 채용 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/f6373204-ea72-4821-9ff8-c484b882c7f9) |
-| **CJ올리브네트웍스** | 개인정보보호 담당자 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/79976168-66f2-46c3-b364-b00270c72fc6) |
-| **엘리스그룹** | [엘리스] 개인정보보호 엔지니어 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/37bd3a78-6b14-4965-bc7e-3832c06a1d4b) |
-| **블루개러지** | [Blue Garage] 개인정보보호 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/577d400f-aa1f-4e16-9289-1ad7fe56fd6e) |
-| **JPMorganChase** | Global Security - Critical Facility Se... | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/a029ae74-4474-4523-9943-293a8b60accb) |
-| **NTT데이터** | Security Lead | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/dff4cc42-2d5e-423e-bd3b-26de0480f165) |
-| **허니웰** | Cyber Security Engineer I-Penetration ... | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/7d952da6-1ccf-465e-ad57-78524b032fa4) |
+| **주식회사 비마이프렌즈** | 개인정보보호담당자(Data Privacy Manager) | `시큐리티팜` | 상시채용 | [상세보기](https://www.securityfarm.co.kr/job/detail/6aec0ce95eb5c4ac14f1e073) |
+| **그레이스앤파트너스** | Cyber Security Consultant/(3~ 11년) - 외... | `피플앤잡` | 2026-12-05 | [상세보기](https://www.peoplenjob.com/jobs/6312978) |
+| **Rebellions** | [AI 반도체 유니콘 - 리벨리온] Security Platform ... | `피플앤잡` | 상시채용 | [상세보기](https://www.peoplenjob.com/jobs/6312791) |
+| **에임즈인터내셔널코리아** | [외국계 TIC 대기업 ] 유럽(EU) 규제 대응 사이버 보안(Cyb... | `피플앤잡` | 상시채용 | [상세보기](https://www.peoplenjob.com/jobs/6312768) |
+| **현대오토에버(주)** | [보안]모의 해킹 및 취약점 진단 | `리멤버` | 2026-11-26 | [상세보기](https://career.rememberapp.co.kr/job/posting/236690) |
+| **롯데백화점(주)** | 정보보호 담당자 채용 | `리멤버` | 2026-11-10 | [상세보기](https://career.rememberapp.co.kr/job/posting/352439) |
+| **(주)네비웍스** | [네비웍스] 품질팀 리더 (SW품질경영 & 전사 정보보안 총괄) | `리멤버` | 2026-11-30 | [상세보기](https://career.rememberapp.co.kr/job/posting/352753) |
+| **쿠팡(주)** | [쿠팡풀필먼트서비스] 개인정보보호 담당자 (7년이상) | `리멤버` | 상시채용 | [상세보기](https://career.rememberapp.co.kr/job/posting/352702) |
+| **(주)두꺼비세상** | [두꺼비세상] 정보보호 담당자 (경력) | `리멤버` | 상시채용 | [상세보기](https://career.rememberapp.co.kr/job/posting/352621) |
+| **현대오토에버(주)** | 클라우드 보안성 검토 및 관리 | `리멤버` | 2026-11-26 | [상세보기](https://career.rememberapp.co.kr/job/posting/347418) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
