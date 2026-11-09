@@ -2,18 +2,28 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **2,131건** | **0건** | **151건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **2,137건** | **6건** | **151건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
 ## 🎯 핵심 취약점 진단 추천 공고
 
+### [크래프톤] [Infra Div.] 웹·API 취약점 진단 엔지니어 (4~8년)
+- **플랫폼**: `Velopers` | **경력**: 경력 | **지역**: 서울/판교 | **마감**: `상시채용`
+- 👉 **[공고 바로가기](https://velopers.kr/jobs/34531)**
+
 ---
 
-## 🔥 오늘 신규 등록 공고 (0건)
+## 🔥 오늘 신규 등록 공고 (6건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
+| **쿠팡페이** | [쿠팡페이] Sr. Security Engineer (Fintech ... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/34134) |
+| **크래프톤** | [Infra Div.] 클라우드·네트워크 보안 대응 엔지니어 (5~8년) | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/34530) |
+| **크래프톤** | [Infra Div.] DevSecOps/공급망 보안 엔지니어 (5~... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/34532) |
+| **크래프톤** | [Infra Div.] 웹·API 취약점 진단 엔지니어 (4~8년) | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/34531) |
+| **가비아** | Security Engineer (SOC운영/정보보안) | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/34359) |
+| **LG CNS** | [LG CNS] 보안 분야 전 영역 전문가 모집(경력) | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/30975) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
