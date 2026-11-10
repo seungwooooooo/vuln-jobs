@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,987건** | **205건** | **133건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,955건** | **205건** | **147건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -80,8 +80,6 @@
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
-| **국가정보원** | [경력직 특정 6급] 사이버 모의해킹 | `인크루트` | `2026-11-09` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610200001079) |
-| **국가정보원** | 2026년도 국가정보원 경력직 [특정 6급사이버 모의해킹] 채용 공고 | `인크루트` | `2026-11-09` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190000676) |
 | **파워에이치알** | [주요SI업체] 화이트해커(경력 3년 - 12년) | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55401684) |
 | **에이치케이시큐리티** | 보안컨설팅 관리/취약점진단/ 모의해킹 경력 채용 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55018717) |
 | **에이치케이시큐리티** | 보안컨설팅 관리/취약점진단/모의해킹 경력 채용 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55018717) |
@@ -89,9 +87,11 @@
 | **(주)에이쓰리시큐리티** | A3SECURITY 컨설턴트 모집(모의해킹) 경력 5년 이상 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55253999) |
 | **(주)비비파트너스** | 보안솔루션사의 반도체 및 SoC칩 관련 하드웨어 보안인증 | `사람인` | `2026-11-10` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55391567) |
 | **파워에이치알** | [주요SI업체] 침해사고 분석 전문가 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55401668) |
+| **(주)제이투이** | [보안관제 SM 잠실/재택] 보안관제 솔루션 운영 (8) | `사람인` | `2026-11-13` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55290243) |
 | **쿤텍(주)** | 해양사이버보안 엔지니어(관제) | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55284030) |
 | **한시큐리티(주)** | 2한시큐리티(주) 보안관제 서비스 전문인력 경력 채용 | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55268233) |
-| **씨엠티정보통신(주)** | 파견 보안관제 경력 직원 채용 | `사람인` | `2026-11-09` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55003330) |
-| **국가정보원** | [경력직 특정 6급] 사이버 침해사고 조사 | `인크루트` | `2026-11-09` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610200001080) |
-| **국가정보원** | 2026년도 국가정보원 경력직 [특정 6급사이버 침해사고 조사] 채용... | `인크루트` | `2026-11-09` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190000677) |
+| **㈜테라정보보호** | 2026년 (주) 테라정보보호 보안 관제 기술지원 신입/경력 채용 | `잡코리아` | `2026-11-13` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50166048) |
 | **코나아이㈜** | [코나아이(주)] 보안관제 담당자 채용 | `잡코리아` | `2026-11-12` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50161212) |
+| **(주)디노텍** | SW/ IT 보안솔루션 영업 | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55277039) |
+| **(주)딥엑스** | [DEEPX] Information Security & Digital... | `사람인` | `2026-11-13` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55288172) |
+| **(주)시니어앤파트너즈** | [화성.정남] 네트워크/보안 엔지니어(사원-대리급) | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55413042) |
