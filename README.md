@@ -2,75 +2,63 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,955건** | **205건** | **147건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,978건** | **36건** | **146건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
 ## 🎯 핵심 취약점 진단 추천 공고
 
-### [아우토크립트] 자동차 취약점 연구·모의해킹
-- **플랫폼**: `원티드` | **경력**: 신입~경력 | **지역**: 서울 | **마감**: `2026-11-30`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/396280)**
+### [(주)78리서치랩] Information Security Consultant(정보보안 컨설턴트, 모의해킹)
+- **플랫폼**: `사람인` | **경력**: 경력무관 | **지역**: 서울 영등포구 | **마감**: `2026-12-10`
+- 👉 **[공고 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55531837)**
 
-### [현대오토에버] [Tech] Security Engineer - 모의 해킹 및 취약점 진단
-- **플랫폼**: `원티드` | **경력**: 경력 2~7년 | **지역**: 서울 | **마감**: `2026-11-26`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/385546)**
+### [(주)에스지시큐리티컨설팅] [신입/경력] 정보보호 컨설턴트 채용 (기술보안·관리보안)
+- **플랫폼**: `사람인` | **경력**: 신입·경력 | **지역**: 서울 강남구 | **마감**: `2026-12-03`
+- 👉 **[공고 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55471867)**
 
-### [크래프톤(Krafton)] [Infra Div.] 웹·API 취약점 진단 엔지니어 (4~8년)
-- **플랫폼**: `원티드` | **경력**: 경력 4~8년 | **지역**: 서울 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/397298)**
+### [(주)파이] 정보보안 컨설턴트 채용 - ISMS-P · 취약점 점검[축하금]
+- **플랫폼**: `사람인` | **경력**: 신입·경력 | **지역**: 서울 금천구 | **마감**: `2026-11-19`
+- 👉 **[공고 바로가기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55339297)**
 
-### [파인더갭] 보안 엔지니어(취약점 분석/평가) 5년 이상
-- **플랫폼**: `원티드` | **경력**: 경력 5~11년 | **지역**: 서울 | **마감**: `2026-12-31`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/395959)**
+### [씨엠티정보통신㈜] CMT정보통신 26년 하반기 경력채용(SOAR,취약점분석,NAC 엔지니어)
+- **플랫폼**: `잡코리아` | **경력**: 경력 2년 이상 | **지역**: 서울 성동구 | **마감**: `2027-01-08`
+- 👉 **[공고 바로가기](https://www.jobkorea.co.kr/Recruit/GI_Read/50330890)**
 
-### [아우토크립트] Senior Offensive Security Engineer [모의해킹_6년 이상]
-- **플랫폼**: `원티드` | **경력**: 6년↑ | **지역**: 서울 | **마감**: `2026-11-30`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/396406)**
-
-### [인라이플] Security Engineer - 모의해킹
-- **플랫폼**: `원티드` | **경력**: 경력 5~10년 | **지역**: 서울 | **마감**: `상시채용`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/395937)**
-
-### [현대오토에버] [Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영
-- **플랫폼**: `원티드` | **경력**: 경력 2~7년 | **지역**: 서울 | **마감**: `2026-11-26`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/385538)**
-
-### [파인더갭] 보안 엔지니어(취약점 연구 자동화) 7년 이상
-- **플랫폼**: `원티드` | **경력**: 경력 7~11년 | **지역**: 서울 | **마감**: `2026-12-31`
-- 👉 **[공고 바로가기](https://www.wanted.co.kr/wd/395962)**
+### [㈜코윈디에스티] 기술보안 및 정보보안 운영 담당자 채용
+- **플랫폼**: `잡코리아` | **경력**: 경력 3년 이상 | **지역**: 경기 | **마감**: `2026-12-09`
+- 👉 **[공고 바로가기](https://www.jobkorea.co.kr/Recruit/GI_Read/50327648)**
 
 ---
 
-## 🔥 오늘 신규 등록 공고 (205건)
+## 🔥 오늘 신규 등록 공고 (36건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
-| **아우토크립트** | 자동차 취약점 연구·모의해킹 | `원티드` | 2026-11-30 | [상세보기](https://www.wanted.co.kr/wd/396280) |
-| **현대오토에버** | [Tech] Security Engineer - 모의 해킹 및 취약점... | `원티드` | 2026-11-26 | [상세보기](https://www.wanted.co.kr/wd/385546) |
-| **크래프톤(Krafton)** | [Infra Div.] 웹·API 취약점 진단 엔지니어 (4~8년) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397298) |
-| **리벨리온** | Security Platform Engineer (보안 플랫폼 개발) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/396735) |
-| **핀다(FINDA)** | [핀다뱅크(현 대원저축은행)] 개인정보보호 매니저 | `원티드` | 2026-11-23 | [상세보기](https://www.wanted.co.kr/wd/397194) |
-| **파인더갭** | 보안 엔지니어(취약점 분석/평가) 5년 이상 | `원티드` | 2026-12-31 | [상세보기](https://www.wanted.co.kr/wd/395959) |
-| **핀다(FINDA)** | [핀다뱅크(현 대원저축은행)] 시니어 보안 엔지니어 | `원티드` | 2026-11-23 | [상세보기](https://www.wanted.co.kr/wd/397199) |
-| **아우토크립트** | Senior Offensive Security Engineer [모의... | `원티드` | 2026-11-30 | [상세보기](https://www.wanted.co.kr/wd/396406) |
-| **에스더블유엠** | 정보보안 | `원티드` | 2026-11-30 | [상세보기](https://www.wanted.co.kr/wd/396674) |
-| **크래프톤(Krafton)** | [Infra Div] DevSecOps 공급망 보안 엔지니어 (5~8년) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397295) |
-| **현대오토에버** | [EnIT] 정보보안 솔루션 구축 및 운영 (금융) | `원티드` | 2026-11-26 | [상세보기](https://www.wanted.co.kr/wd/395123) |
-| **한화그룹 (Hanwha)** | [한화시스템/ICT] 보안진단 담당자 | `원티드` | 2026-11-15 | [상세보기](https://www.wanted.co.kr/wd/396363) |
-| **인라이플** | Security Engineer - 모의해킹 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/395937) |
-| **현대오토에버** | [Tech] Security Engineer - 인도 법인 보안&인프... | `원티드` | 2026-11-26 | [상세보기](https://www.wanted.co.kr/wd/395344) |
-| **미리디** | 보안 엔지니어(AI-Driven Security Automation ... | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397265) |
-| **에스케이그룹 (SK)** | [SK signet] 정보보안 담당 (7년이상) | `원티드` | 2027-02-28 | [상세보기](https://www.wanted.co.kr/wd/396353) |
-| **현대오토에버** | [Tech] Service Security Engineer - DAS... | `원티드` | 2026-11-26 | [상세보기](https://www.wanted.co.kr/wd/385538) |
-| **에스케이그룹 (SK)** | [SK inc.(AX)] OT보안 전문가 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/389716) |
-| **패스트레인(여신티켓)** | 정보보안 담당자(팀장, 팀원) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/373016) |
-| **크림(KREAM)** | IT 보안 기술 담당자 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/384876) |
-| **우아한형제들(배달의민족)** | 정보보호관리 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397108) |
-| **소만사** | 엔드포인트 보안 소프트웨어 C++개발자 | `원티드` | 2026-11-30 | [상세보기](https://www.wanted.co.kr/wd/387407) |
-| **디비아이엔씨(DB Inc)** | 그룹관계사(DB생명) 보안 운영 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/394968) |
-| **페이타랩(패스오더)** | 컴플라이언스 담당자(전자금융업, 정보보호)_5년 이상 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/390475) |
-| **크래프톤(Krafton)** | [Infra Div.] 클라우드·네트워크 보안 대응 엔지니어 (5~8년) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397292) |
+| **아주큐엠에스** | 정보보안담당(책임급) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397425) |
+| **크래프톤(Krafton)** | [Infra Div.] DevSecOps/공급망 보안 엔지니어 (5~... | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397436) |
+| **아주큐엠에스** | 정보보안담당(선임급) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/397426) |
+| **쿠팡** | Senior Risk Specialist (Security GRC S... | `쿠팡` | 상시채용 | [상세보기](https://www.coupang.jobs/kr/jobs/8358185/) |
+| **LG유플러스** | [정보보안센터] 클라우드 보안 구축 및 운영 경력채용 | `LG 채용관` | 2026-11-22 | [상세보기](https://careers.lg.com/apply/detail?id=1001907) |
+| **㈜보령** | [보령] 정보보호팀 팀장 (경력) | `잡코리아` | 2027-01-08 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50335095) |
+| **(주)78리서치랩** | Information Security Consultant(정보보안 컨... | `사람인` | 2026-12-10 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55531837) |
+| **쿠팡 주식회사** | 보안 엔지니어 (Attack Surface Identification) | `잡코리아` | 2026-12-09 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50334853) |
+| **(주)오너스텍** | (주)오너스텍에서 보안 엔지니어로 함께 성장하실분을 찾습니다 | `인크루트` | 2026-12-10 | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2611100000909) |
+| **㈜케이엠파크** | 정보보안팀 담당자 채용 | `잡코리아` | 2027-01-07 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50324507) |
+| **(주)에스지시큐리티컨설팅** | [신입/경력] 정보보호 컨설턴트 채용 (기술보안·관리보안) | `사람인` | 2026-12-03 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55471867) |
+| **한패스(주)** | [ 한패스 ] 한패스 및 관계사 정보보호 시스템/관리 경력 채용 | `사람인` | 2026-12-04 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55483392) |
+| **(주)한국갤럽조사연구소** | [한국갤럽] 정보보호팀 / 인프라 및 시스템 보안 담당자 채용 | `사람인` | 상시채용 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55504589) |
+| **메가존클라우드(주)** | [메가존클라우드관계사] 메가존헬스케어 보안 엔지니어 | `사람인` | 상시채용 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55507051) |
+| **(주)카카오브이엑스** | 카카오VX 정보보안팀 서비스 보안 담당자 채용 | `사람인` | 2026-11-17 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55484488) |
+| **한화시스템(주)** | 보안진단 담당자 경력사원 채용 | `사람인` | 2026-11-15 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55491392) |
+| **(주)당근마켓** | Security Engineer - 인프라 (보안, Detection... | `잡코리아` | 상시채용 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50332449) |
+| **㈜컬리** | 정보보호 정책 담당자 | `잡코리아` | 2027-01-08 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50331572) |
+| **㈜현대그린푸드** | 현대그린푸드 정보보호 경력사원 채용 | `잡코리아` | 2026-11-25 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50336520) |
+| **(주)파이** | 정보보안 컨설턴트 채용 - ISMS-P · 취약점 점검[축하금] | `사람인` | 2026-11-19 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55339297) |
+| **(주)에스피씨지** | (주)에스피씨지 Offensive Security 컨설턴트 신입 및 ... | `사람인` | 상시채용 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55483529) |
+| **㈜에어프레미아** | 정보보안 기술 담당자 (경력) | `잡코리아` | 2026-12-09 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50327552) |
+| **(주)가비아** | 2026년 가비아 Security Engineer 경력직 수시채용 | `사람인` | 2026-11-30 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55521909) |
+| **㈜디비아이엔씨** | [DB Inc.] 그룹관계사(DB하이텍) 보안 운영 채용 | `잡코리아` | 2026-12-10 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50336557) |
+| **씨엠티정보통신㈜** | CMT정보통신 26년 하반기 경력채용(SOAR,취약점분석,NAC 엔지... | `잡코리아` | 2027-01-08 | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50330890) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
@@ -82,8 +70,8 @@
 | :--- | :--- | :---: | :---: | :---: |
 | **파워에이치알** | [주요SI업체] 화이트해커(경력 3년 - 12년) | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55401684) |
 | **에이치케이시큐리티** | 보안컨설팅 관리/취약점진단/ 모의해킹 경력 채용 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55018717) |
-| **에이치케이시큐리티** | 보안컨설팅 관리/취약점진단/모의해킹 경력 채용 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55018717) |
 | **(주)스틸리언** | [스틸리언] 화이트해커(모의침투테스트· 레드팀서비스) | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55256889) |
+| **에이치케이시큐리티** | 보안컨설팅 관리/취약점진단/모의해킹 경력 채용 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55018717) |
 | **(주)에이쓰리시큐리티** | A3SECURITY 컨설턴트 모집(모의해킹) 경력 5년 이상 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55253999) |
 | **(주)비비파트너스** | 보안솔루션사의 반도체 및 SoC칩 관련 하드웨어 보안인증 | `사람인` | `2026-11-10` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55391567) |
 | **파워에이치알** | [주요SI업체] 침해사고 분석 전문가 | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55401668) |
@@ -92,6 +80,6 @@
 | **한시큐리티(주)** | 2한시큐리티(주) 보안관제 서비스 전문인력 경력 채용 | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55268233) |
 | **㈜테라정보보호** | 2026년 (주) 테라정보보호 보안 관제 기술지원 신입/경력 채용 | `잡코리아` | `2026-11-13` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50166048) |
 | **코나아이㈜** | [코나아이(주)] 보안관제 담당자 채용 | `잡코리아` | `2026-11-12` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50161212) |
+| **(주)시큐어월** | (신입/경력) IT 정보보안 기술지원 엔지니어 모집 | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55272204) |
 | **(주)디노텍** | SW/ IT 보안솔루션 영업 | `사람인` | `2026-11-12` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55277039) |
-| **(주)딥엑스** | [DEEPX] Information Security & Digital... | `사람인` | `2026-11-13` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55288172) |
 | **(주)시니어앤파트너즈** | [화성.정남] 네트워크/보안 엔지니어(사원-대리급) | `사람인` | `2026-11-11` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55413042) |
