@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 오늘 마감 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,953건** | **23건** | **145건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,933건** | **23건** | **168건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -54,18 +54,18 @@
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
-| **(주)제로** | [송파] 보안관제 L2 침해대응 담당자 | `사람인` | `2026-11-14` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55309902) |
-| **(주)테라정보보호** | 2026년 테라정보보호 보안 관제 기술지원 신입/경력 채용 | `사람인` | `2026-11-14` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55295880) |
-| **㈜제로** | 보안관제 L2 전문 분석 및 침해사고 대응 | `잡코리아` | `2026-11-14` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50178361) |
 | **(주)시큐아이** | [삼성SDS자회사] (주)시큐아이 경력사원 채용(보안운영) | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55311986) |
 | **(주)락인컴퍼니** | 모바일 앱 보안 서비스 SaaS 개발자 정규직 채용 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55390146) |
 | **(주)넷세이프** | [정규직] 정보보안 엔지니어 채용 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55049690) |
 | **(주)다가올아이앤씨** | (주)다가올아이앤씨 네트워크 보안 솔루션 엔지니어 경력채용 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55315296) |
-| **(주)소프트위드솔루션** | 자사 보안솔루션  엔지니어 (차장.부장급) - 연봉 협상 | `사람인` | `2026-11-14` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55302904) |
+| **(주)시큐어스** | 네트워크보안 엔지니어 모집-신입 | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55331097) |
+| **(주)윈스테크넷** | 윈스테크넷 채용(경력) - [부울경] 정보보호서비스 | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55332692) |
+| **(주)비테크놀로지** | [비테크놀로지] IT 정보보안 네트워크 엔지니어 구인 공고 | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55326982) |
 | **(주) 유호스트** | [월16일 근무] 보안관제 담당 채용(교대근무/정규직) | `인크루트` | `2026-11-16` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260000912) |
-| **(주)테라정보보호** | 2026년 테라정보보호 보안 솔루션 기술지원 신입/경력 채용 | `사람인` | `2026-11-14` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55295848) |
+| **(주)제이투이** | [보안 SM 잠실/재택] 보안 시스템 및 네트워크 보안솔루션 (10) | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55323333) |
+| **(주)제이투이** | [보안 SM 잠실/재택] 보안 시스템 및 엔드포인트 보안솔루션 (8) | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55323360) |
 | **(주)투씨에스지** | 보안솔루션(OT) 엔지니어 채용 (신입/경력) | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55051397) |
 | **(주)지니넷** | 지니넷 울산 신입  [네트워크 시스템 보안 IP교환기] 엔지니어 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55050151) |
-| **(주)테라정보보호** | 2026년 테라정보보호 보안 솔루션 기술지원 채용 (상주직) | `사람인` | `2026-11-14` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55296207) |
 | **에이티아이(주)** | [삼성전자협력사채용박람회] 정보보안 채용 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55352190) |
 | **삼성메디슨(주)** | [S/W개발] '사이버보안' 경력사원 채용 | `사람인` | `2026-11-15` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54746321) |
+| **㈜주피터시스템즈** | 기술지원 엔지니어 (네트워크 및 정보보안) | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55130477) |
