@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 마감 임박 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,471건** | **49건** | **108건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,447건** | **49건** | **122건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -81,6 +81,7 @@
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
 | **㈜에버스핀** | 취약점분석 및 정보보안 모의해킹 컨설턴트 신입 | `잡코리아` | `2026-11-19` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50203666) |
+| **한국통신인터넷기술(주)** | kt cloud IDC(목동) 보안관제  공고 | `사람인` | `2026-11-20` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55350779) |
 | **(주)웨일시큐리티** | 모의해킹(정보보안 컨설팅) 신입 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55343440) |
 | **(주)웨일시큐리티** | 모의해킹(정보보안 컨설팅) 경력 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55344029) |
 | **(주)벤처씨엔씨프라자** | 보안관제 모니터링 채용 공고 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55339000) |
@@ -89,9 +90,8 @@
 | **(주)고퀄** | [주식회사 고퀄] AI-Driven Security Lead 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339687) |
 | **(주)스마트엠투엠** | 사이버보안 솔루션 개발자 모집(신입/경력) - 서울(논현) 근무 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55337600) |
 | **(주)미디어윌네트웍스** | [알바천국본사] 정보보안 기술 엔지니어 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55405421) |
+| **(주)동훈아이텍** | [동훈아이텍] 네트워크 보안 엔지니어 채용 (경력직) | `사람인` | `2026-11-20` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55350942) |
+| **(주)소프트위드솔루션** | 보안솔루션 엔지니어 (신입) - 개발자 아님 | `사람인` | `2026-11-20` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55354133) |
+| **아이온시큐리티** | 보안관제센터 / 보안관제팀 보안관제 파트 신입사원 모집 | `잡코리아` | `2026-11-20` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50026322) |
 | **(주)딜라이브** | 정보보호팀 경력직원 채용(계약직 3개월 후 정규직 전환 검토) | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55329719) |
-| **(주)시큐어스** | 네트워크보안 엔지니어 모집-신입 | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55331097) |
-| **파워에이치알** | [주요SI업체] 화이트해커(경력 3년 - 16년) | `인크루트` | `2026-11-19` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610200004580) |
-| **(주)어니솔루션** | 소프트웨어 및 보안솔루션 영업 채용공고 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55345072) |
-| **(주)비테크놀로지** | [비테크놀로지] IT 정보보안 네트워크 엔지니어 구인 공고 | `사람인` | `2026-11-18` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55326982) |
-| **(주)코랩소프트** | [사당/대기업]  CJ ENM커머스 클라우드 보안인력 초중급 SM | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55345544) |
+| **(주)동훈아이텍** | [동훈아이텍] 보안 엔지니어 채용 (신입/경력) | `사람인` | `2026-11-20` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55088287) |
