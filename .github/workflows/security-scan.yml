@@ -1,0 +1,81 @@
+name: Security Scan
+
+# Automated security checks on every push and pull request to main:
+# secret scanning (gitleaks), personal-info scanning, and a check that
+# only the expected files are tracked. No build step: this is a static site.
+# NOTE: this repository's generated files (index.html, README.md, today.md)
+# are produced by the job aggregator pipeline; this workflow file lives
+# outside the generated set and must not be modified by the pipeline.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  security-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gitleaks secret scan
+        uses: gitleaks/gitleaks-action@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Keep this job read-only: no PR comments, no SARIF upload.
+          GITLEAKS_ENABLE_COMMENTS: 'false'
+          GITLEAKS_ENABLE_UPLOAD_ARTIFACT: 'false'
+
+      - name: PII scan
+        run: |
+          set -euo pipefail
+          # Generic personal-info patterns only. No personal identifiers
+          # are listed here on purpose: the generic patterns catch them,
+          # and this file itself must stay free of personal info.
+          fail=0
+          check() {
+            local label="$1"
+            local pattern="$2"
+            if git grep -En "$pattern" -- .; then
+              echo "::error::PII scan found $label"
+              fail=1
+            fi
+          }
+          check "email address" '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}'
+          check "Korean phone number" '01[016789]-[0-9]{3,4}-[0-9]{4}|02-[0-9]{3,4}-[0-9]{4}'
+          check "resident-registration-number-style number" '[0-9]{6}-[0-9]{7}'
+          # Commit author/committer emails must be GitHub noreply addresses.
+          if git log --format='%ae %ce' | grep -v 'users.noreply.github.com' | grep -q .; then
+            echo "::error::PII scan found non-noreply commit email"
+            git log --format='%ae %ce' | grep -v 'users.noreply.github.com' | sort -u
+            fail=1
+          fi
+          if [ "$fail" -ne 0 ]; then
+            exit 1
+          fi
+          echo "PII scan clean"
+
+      - name: Tracked-file allowlist check
+        run: |
+          set -euo pipefail
+          # Only the expected files may be tracked in this repository.
+          expected=$(cat <<'EOF'
+          .github/workflows/security-scan.yml
+          README.md
+          index.html
+          today.md
+          EOF
+          )
+          actual=$(git ls-files | sort)
+          if [ "$actual" != "$(echo "$expected" | sort)" ]; then
+            echo "::error::Tracked files do not match the allowlist"
+            diff <(echo "$expected" | sort) <(echo "$actual") || true
+            exit 1
+          fi
+          echo "Tracked files match the allowlist"
