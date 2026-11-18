@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 마감 임박 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,538건** | **58건** | **132건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,497건** | **58건** | **122건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -82,6 +82,7 @@
 | :--- | :--- | :---: | :---: | :---: |
 | **한국통신인터넷기술(주)** | kt cloud IDC(목동) 보안관제  공고 | `사람인` | `2026-11-20` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55350779) |
 | **㈜에버스핀** | 취약점분석 및 정보보안 모의해킹 컨설턴트 신입 | `잡코리아` | `2026-11-19` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50203666) |
+| **인더포레스트** | [보안 컨설팅] 수준높은 취약점 진단, 모의해킹 컨설팅 | `잡코리아` | `2026-11-20` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50027361) |
 | **한시큐리티㈜** | [한시큐리티] 보안관제 서비스 전문인력 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50223138) |
 | **주식회사 루시드엑스(LucidX)** | 사이버 침해사고 분석 및 디지털 포렌식 전문가 채용 | `사람인` | `2026-11-21` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55365661) |
 | **(주)웨일시큐리티** | 모의해킹(정보보안 컨설팅) 신입 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55343440) |
@@ -94,4 +95,3 @@
 | **중소기업(300명이하)** | 국내 네트워크 보안 대표기업 보안관제 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50220377) |
 | **아이온시큐리티** | 보안관제센터 / 보안관제팀 보안관제 파트 신입사원 모집 | `잡코리아` | `2026-11-20` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50026322) |
 | **중소기업(300명이하)** | 국내 네트워크 기업 보안분석-보안관제 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50221364) |
-| **(주)고퀄** | [주식회사 고퀄] AI-Driven Security Lead 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339687) |
