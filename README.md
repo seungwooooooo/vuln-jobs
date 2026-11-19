@@ -2,7 +2,7 @@
 
 | 전체 공고 | 신규 | 마감 임박 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,497건** | **58건** | **122건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,464건** | **57건** | **139건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 오늘 신규 등록 공고 (58건)
+## 🔥 오늘 신규 등록 공고 (57건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
@@ -84,14 +84,14 @@
 | **㈜에버스핀** | 취약점분석 및 정보보안 모의해킹 컨설턴트 신입 | `잡코리아` | `2026-11-19` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50203666) |
 | **인더포레스트** | [보안 컨설팅] 수준높은 취약점 진단, 모의해킹 컨설팅 | `잡코리아` | `2026-11-20` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50027361) |
 | **한시큐리티㈜** | [한시큐리티] 보안관제 서비스 전문인력 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50223138) |
+| **한시큐리티(주)** | [한시큐리티] Red Team / Offensive Security ... | `사람인` | `2026-11-22` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55374697) |
 | **주식회사 루시드엑스(LucidX)** | 사이버 침해사고 분석 및 디지털 포렌식 전문가 채용 | `사람인` | `2026-11-21` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55365661) |
 | **(주)웨일시큐리티** | 모의해킹(정보보안 컨설팅) 신입 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55343440) |
 | **비씨카드** | 신용카드사 Red Team 침투 테스터 채용 | `잡코리아` | `2026-11-19` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50206633) |
+| **에이치나인랩(주)** | 에이치나인랩(주) 보안관제 서비스 전문인력 경력 채용 | `사람인` | `2026-11-22` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55375705) |
 | **(주)웨일시큐리티** | 모의해킹(정보보안 컨설팅) 경력 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55344029) |
 | **(주)벤처씨엔씨프라자** | 보안관제 모니터링 채용 공고 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55339000) |
 | **(주)네오티스** | 데이터센터 상주 정보보안 보안관제 경력 인력 채용 | `사람인` | `2026-11-19` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55340008) |
+| **에이치나인랩(주)** | [한시큐리티] 보안관제 서비스 전문인력 채용 | `잡코리아` | `2026-11-22` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50229812) |
 | **채널코퍼레이션** | [채널톡] Security Engineer | `원티드` | `2026-11-20` | [상세보기](https://www.wanted.co.kr/wd/377514) |
 | **㈜씨아이솔루션** | 보안관제 채용 모집 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50218721) |
-| **중소기업(300명이하)** | 국내 네트워크 보안 대표기업 보안관제 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50220377) |
-| **아이온시큐리티** | 보안관제센터 / 보안관제팀 보안관제 파트 신입사원 모집 | `잡코리아` | `2026-11-20` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50026322) |
-| **중소기업(300명이하)** | 국내 네트워크 기업 보안분석-보안관제 채용 | `잡코리아` | `2026-11-21` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50221364) |
