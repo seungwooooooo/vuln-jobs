@@ -2,9 +2,9 @@
 
 | 전체 공고 | 신규 | 마감 임박 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,442건** | **9건** | **121건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,394건** | **9건** | **108건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
-> TITLE_ONLY 787건 포함
+> TITLE_ONLY 765건 포함
 
 ---
 
@@ -66,18 +66,18 @@
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
-| **한시큐리티(주)** | [한시큐리티] Red Team / Offensive Security ... | `사람인` | `2026-11-22` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55374697) |
 | **넷마블** | 취약점 진단 및 모의해킹 담당자 | `원티드` | `2026-11-25` | [상세보기](https://www.wanted.co.kr/wd/361467) |
 | **(주)고른** | [경력직] 웹 취약점 진단 및 모의해킹 담당자 채용 | `사람인` | `2026-11-25` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55394123) |
 | **주식회사 티시스 아이티** | 보안관제 | `사람인` | `2026-11-24` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55392878) |
 | **(주)이스트시큐리티** | 악성코드 탐지 엔진 개발 (경력) | `사람인` | `2026-11-24` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55394459) |
 | **대기업** | 전사 인프라 침해사고 대응(CERT) 담당자 [국내 대기업] | `잡코리아` | `2026-11-23` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50234657) |
-| **(주)싸이터** | [CYTUR] 주식회사 싸이터 선박 사이버보안 연구 포지션(경력) | `사람인` | `2026-11-22` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55113116) |
-| **에이치나인랩(주)** | 에이치나인랩(주) 보안관제 서비스 전문인력 경력 채용 | `사람인` | `2026-11-22` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55375705) |
-| **㈜와탭랩스** | 정보보안 엔지니어 | `잡코리아` | `2026-11-22` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50049224) |
-| **에이치나인랩(주)** | [한시큐리티] 보안관제 서비스 전문인력 채용 | `잡코리아` | `2026-11-22` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50229812) |
-| **(주)씨아이솔루션** | 보안솔루션 운영 경력직 채용 | `인크루트` | `2026-11-22` | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2610230003215) |
+| **㈜선익시스템** | [선익시스템] IT팀 정보보안 경력 채용 | `잡코리아` | `2026-11-26` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50248199) |
 | **(주)리드엔지니어링** | 총무(총무,산업안전,정보보안) 경력직 모집 | `사람인` | `2026-11-25` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55388492) |
-| **㈜마인드온** | 보안솔루션 엔지니어 채용(경력) | `잡코리아` | `2026-11-22` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50227532) |
 | **주식회사 티시스 아이티** | 보안관제(EDR) | `사람인` | `2026-11-25` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55401826) |
 | **(주)잇츠비솔루션** | IT 보안솔루션 엔지니어 신입/경력 채용 모집 | `사람인` | `2026-11-25` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55398127) |
+| **(주)위드네트웍스** | 보안 연구소 솔루션 개발자(신입) | `사람인` | `2026-11-26` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55417954) |
+| **쿤텍(주)** | 해양사이버보안 엔지니어 관제(6↑) | `사람인` | `2026-11-25` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55401593) |
+| **(주)에어키** | [주4.5일] 네트워크 보안 엔지니어 신입 및 경력 채용 | `사람인` | `2026-11-26` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55401888) |
+| **(주)이테크비전** | IT 정보보안 지술지원  채용 | `사람인` | `2026-11-23` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55119617) |
+| **㈜키스템프** | [마포/정규직/연봉협의]유명기업 정보보안 총괄직 채용 | `잡코리아` | `2026-11-25` | [상세보기](https://www.jobkorea.co.kr/Recruit/GI_Read/50251917) |
+| **(주)위드네트웍스** | 보안 연구소 솔루션 개발자(경력) | `사람인` | `2026-11-26` | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55417960) |
