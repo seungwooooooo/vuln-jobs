@@ -36,6 +36,8 @@
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
+| **삼성문화재단** | 경력사원 채용(개인정보보호, AI·IT보안) - AI·IT보안 | `Velopers` | 2026-12-07 | [상세보기](https://velopers.kr/jobs/47574) |
+| **채널톡** | Security Engineer Intern | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/48048) |
 | **번개장터** | 보안 엔지니어 (모의해킹·침해대응) | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/399879) |
 | **에스넷아이씨티** | [과천] 네트워크 보안 엔지니어 (2년 이상) | `원티드` | 2026-12-18 | [상세보기](https://www.wanted.co.kr/wd/399890) |
 | **다이렉트클라우드랩** | 정보보안 엔지니어[재택가능] | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/399789) |
@@ -59,8 +61,6 @@
 | **베스트네트워크㈜** | 49. Cyber Security Manager [외국계 탑티어 럭셔... | `사람인` | 2026-12-09 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55653624) |
 | **그레이스앤파트너스(주)** | Cyber Security(Senior)/(7~ 12년) - 반도체(... | `사람인` | 2026-12-09 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55658566) |
 | **(주)라쿠텐심포니코리아** | Maritime - Cyber Security Engineer / P... | `사람인` | 2027-01-22 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55649970) |
-| **라인넥스트 주식회사** | Senior Security Professional (게임서비스 분야) | `인크루트` | 상시채용 | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2611240002132) |
-| **주식회사 에이피알** | [경영지원] 개인정보보호 담당 경력사원 모집 | `인크루트` | 상시채용 | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2611230004753) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
