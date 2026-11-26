@@ -2,9 +2,9 @@
 
 | 전체 공고 | 신규 | 마감 임박 | 웹 대시보드 |
 | :---: | :---: | :---: | :---: |
-| **1,432건** | **36건** | **118건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
+| **1,435건** | **39건** | **118건** | [웹 대시보드 열기](https://seungwooooooo.github.io/vuln-jobs/) |
 
-> TITLE_ONLY 15건 포함
+> TITLE_ONLY 18건 포함
 
 ---
 
@@ -24,10 +24,13 @@
 
 ---
 
-## 🔥 오늘 신규 등록 공고 (36건)
+## 🔥 오늘 신규 등록 공고 (39건)
 
 | 기업명 | 공고 제목 | 플랫폼 | 마감일 | 링크 |
 | :--- | :--- | :---: | :---: | :---: |
+| **42dot** | Vehicle Cybersecurity Engineer | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/49426) |
+| **42dot** | Android Application Security Engineer ... | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/49427) |
+| **42dot** | Security Engineer (Security Platform) | `Velopers` | 상시채용 | [상세보기](https://velopers.kr/jobs/49431) |
 | **휴젤** | [보안1팀] 정보보안 운영/개인정보보호 | `원티드` | 상시채용 | [상세보기](https://www.wanted.co.kr/wd/400292) |
 | **보맵** | 정보보호팀 담당자 (3년 이상) | `원티드` | 2026-12-31 | [상세보기](https://www.wanted.co.kr/wd/400390) |
 | **넷마블(주)** | 취약점 진단 및 모의해킹 담당자 | `사람인` | 2026-12-25 | [상세보기](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55679715) |
@@ -50,9 +53,6 @@
 | **쿠팡** | Director, Global Security_Governance &... | `쿠팡` | 상시채용 | [상세보기](https://www.coupang.jobs/kr/jobs/8418706/) |
 | **(주)엔터웨이파트너스** | [대기업생보사]정보보안팀 경력직(대리/과장급) | `인크루트` | 2026-12-26 | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2611260000845) |
 | **케이비자산운용** | AI디지털추진실 정보보안 경력 채용 | `인크루트` | 2026-12-13 | [상세보기](https://job.incruit.com/jobdb_info/jobpost.asp?job=2611250003063) |
-| **LG유플러스** | [정보보안센터] 퍼블릭 클라우드 보안 경력채용 | `LG 채용관` | 2026-12-06 | [상세보기](https://careers.lg.com/apply/detail?id=1001513) |
-| **카카오헬스케어** | [경력] 보안 엔지니어 채용 | `직행(zighang)` | 상시채용 | [상세보기](https://zighang.com/recruitment/1b9f9fbd-faf3-4557-bc35-302049b40d6d) |
-| **엠시큐어** | 엠시큐어에서 취약점 분석 및 개발 담당자를 모집합니다. | `직행(zighang)` | 2027-01-18 | [상세보기](https://zighang.com/recruitment/24c390df-c45d-497d-a566-ff8f21eae4b1) |
 
 > 💡 *전체 신규 및 마감 임박 공고는 [모바일 웹 대시보드(index.html)](index.html)에서 실시간 검색으로 확인하실 수 있습니다.*
 
