@@ -67,6 +67,7 @@ jobs:
           # Only the expected files may be tracked in this repository.
           expected=$(cat <<'EOF'
           .github/workflows/security-scan.yml
+          .gitignore
           README.md
           index.html
           today.md

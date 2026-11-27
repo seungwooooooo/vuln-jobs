@@ -1,0 +1,7 @@
+# Local working files — never committed.
+# Same class as the security-brief 2026-11-27 incident: a stray working file
+# committed by a broad `git add` breaks the Security Scan allowlist check.
+census/
+data_audit_2026-11-16.md
+work/
+work_orig_backup/
